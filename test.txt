@@ -1,0 +1,10 @@
+ git remote add biggies https://github.com/tsusilkumar/biggiesburger.git
+ git remote
+ ll
+ clear
+ git status
+ git add .
+ clear
+ git status
+ git commit -m "1st commit" .
+ git push -u biggies master
